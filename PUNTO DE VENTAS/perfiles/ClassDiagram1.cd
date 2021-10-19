@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PUNTO_DE_VENTAS.AdapterTech">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Adapter\AdapterTech.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.208" />
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.AdapterVestimenta">
+    <Position X="13.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Adapter\AdapterVestimenta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.procesador_de_productos.VentaProductos">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAEAAAAACAAA=</HashCode>
+      <FileName>procesador de productos\VentaProductos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.procesador_de_productos.Listas">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIgASAAAAAAAAAIAIAAAQAACAAAAAAAAAAAAAEAAACA=</HashCode>
+      <FileName>procesador de productos\Listas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.procesador_de_productos.AgregarProductos">
+    <Position X="4" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAAAAAAAAAAEAAEAAAIAgAAAAA=</HashCode>
+      <FileName>procesador de productos\AgregarProductos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.perfiles.Vendedor">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>perfiles\Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.perfiles.Cliente">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>perfiles\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.MainClass">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PUNTO_DE_VENTAS.Adapter.Total">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adapter\total.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PUNTO_DE_VENTAS.IProducto">
+    <Position X="19.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>procesador de productos\Iproducto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
